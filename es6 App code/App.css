@@ -1,0 +1,37 @@
+body {
+  background: #FAFAFA;
+}
+.badge-success {
+  background: #5cb85c;
+}
+.badge-danger {
+  background: #d9534f;
+}
+.list-group-item {
+  padding: 20px 15px;
+}
+.form-control, .btn, .badge {
+  border-radius: 0;
+}
+#feedForm {
+  display: none;
+}
+.list-group-item{
+  min-height: 95px;
+}
+
+.btn-up{
+  margin-right: 10px;
+}
+
+.badge-danger{
+  background-color: #e63a3a !important;
+}
+.list-group{
+  padding: 20px !important;
+}
+.spacer20{
+  display: block;
+  height: 20px;
+  clear: both;
+}
