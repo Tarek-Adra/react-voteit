@@ -1,4 +1,4 @@
-react-voteit
+react-voteit TypeScript ES6
 ============
 
 React.js + Firebase voting application.
